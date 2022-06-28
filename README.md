@@ -2,7 +2,7 @@
 - 👀 I’m interested in Production 
 - 🌱 I’m currently learning and I work 
 - 💞️ I’m looking to collaborate on different people
-- 📫 How to reach me guskaroom@gmail.com
+
 
 <!---
 MadMena/MadMena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
