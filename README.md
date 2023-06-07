@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MadMena
 - 👀 I’m interested in Production 
 - 🌱 I’m currently learning and I work 
-- 💞️ I’m looking to collaborate on different people
+
 
 
 <!---
